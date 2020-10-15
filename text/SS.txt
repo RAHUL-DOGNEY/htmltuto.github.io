@@ -1,0 +1,32 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+<style type="text/css">
+	div{
+		font-size:50px;
+		text-align: center;
+	}
+
+	.heading{
+			text-align: center;
+			background: grey;
+			color:red;
+			font-family: algerian;
+			text-decoration: underline;
+			font-style: italic;
+		}
+</style>
+
+</head>
+<body>
+	<h1 class="heading">Bold,Italic,Emphasize,Blockquote,Center,Strike</h1>
+<div>
+<b style="text-align:center">this is bold tag</b><br>
+<i style="text-align:center">this is italic tag</i><br>
+<em style="text-align:center">this is emphasize tag</em><br>
+<q style="text-align:center">this is blockquote tag</q><br>
+<strike style="text-align:center">this is strike tag</strike><br>
+<center style="text-align:center">this is center tag</center><br>
+</div>
+</body>
